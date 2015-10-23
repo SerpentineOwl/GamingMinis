@@ -1,0 +1,37 @@
+1		Height = 36		Width= 19
+2		Height = 36		Width= 19
+3		Height = 36		Width= 19
+4		Height = 36		Width= 19
+5		Height = 36		Width= 19
+6		Height = 36		Width= 19
+7		Height = 36		Width= 19
+8		Height = 36		Width= 19
+9		Height = 36		Width= 19
+0		Height = 36		Width= 19
+
+A		Height = 36		Width=
+B		Height = 36		Width=
+C		Height = 36		Width=
+D		Height = 36		Width=
+E		Height = 36		Width=
+F		Height = 36		Width=
+G		Height = 36		Width=
+H		Height = 36		Width=
+I		Height = 36		Width=
+J		Height = 36		Width=
+K		Height = 36		Width=
+L		Height = 36		Width=
+M		Height = 36		Width=
+N		Height = 36		Width=
+O		Height = 36		Width=
+P		Height = 36		Width=
+Q		Height = 36		Width=
+R		Height = 36		Width=
+S		Height = 36		Width=
+T		Height = 36		Width=
+U		Height = 36		Width=
+V		Height = 36		Width=
+W		Height = 36		Width=
+X		Height = 36		Width=
+Y		Height = 36		Width=
+Z		Height = 36		Width=
