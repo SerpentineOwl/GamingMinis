@@ -1,37 +1,37 @@
-1		Height = 36		Width= 19
-2		Height = 36		Width= 19
-3		Height = 36		Width= 19
-4		Height = 36		Width= 19
-5		Height = 36		Width= 19
-6		Height = 36		Width= 19
-7		Height = 36		Width= 19
-8		Height = 36		Width= 19
-9		Height = 36		Width= 19
-0		Height = 36		Width= 19
+1		Height = 36		Width= 20
+2		Height = 36		Width= 20
+3		Height = 36		Width= 20
+4		Height = 36		Width= 20
+5		Height = 36		Width= 20
+6		Height = 36		Width= 20
+7		Height = 36		Width= 20
+8		Height = 36		Width= 20
+9		Height = 36		Width= 20
+0		Height = 36		Width= 20
 
-A		Height = 36		Width=
-B		Height = 36		Width=
-C		Height = 36		Width=
-D		Height = 36		Width=
-E		Height = 36		Width=
-F		Height = 36		Width=
-G		Height = 36		Width=
-H		Height = 36		Width=
-I		Height = 36		Width=
-J		Height = 36		Width=
-K		Height = 36		Width=
-L		Height = 36		Width=
-M		Height = 36		Width=
-N		Height = 36		Width=
-O		Height = 36		Width=
-P		Height = 36		Width=
-Q		Height = 36		Width=
-R		Height = 36		Width=
-S		Height = 36		Width=
-T		Height = 36		Width=
-U		Height = 36		Width=
-V		Height = 36		Width=
-W		Height = 36		Width=
-X		Height = 36		Width=
-Y		Height = 36		Width=
-Z		Height = 36		Width=
+A		Height = 36		Width= 20
+B		Height = 36		Width= 20
+C		Height = 36		Width= 20
+D		Height = 36		Width= 20
+E		Height = 36		Width= 20
+F		Height = 36		Width= 20
+G		Height = 36		Width= 20
+H		Height = 36		Width= 20
+I		Height = 36		Width= 14
+J		Height = 36		Width= 16
+K		Height = 36		Width= 20
+L		Height = 36		Width= 20
+M		Height = 36		Width= 20
+N		Height = 36		Width= 20
+O		Height = 36		Width= 20
+P		Height = 36		Width= 20
+Q		Height = 36		Width= 20
+R		Height = 36		Width= 20
+S		Height = 36		Width= 20
+T		Height = 36		Width= 20
+U		Height = 36		Width= 20
+V		Height = 36		Width= 20
+W		Height = 36		Width= 20
+X		Height = 36		Width= 20
+Y		Height = 36		Width= 20
+Z		Height = 36		Width= 20
