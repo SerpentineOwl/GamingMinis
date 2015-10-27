@@ -1,3 +1,6 @@
+include <SingleMiniLibrary.scad>; 
+
+
 //Constants
 sml_BaseCircle = 90;
 sml_BaseTriangle = 3;
